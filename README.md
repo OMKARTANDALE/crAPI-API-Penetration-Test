@@ -126,8 +126,6 @@ crAPI-API-Penetration-Test
 │   ├── INJECTION
 │   ├── SSRF
 │   └── JWT
-│
-└── ATTACK_CHAIN
 ```
 
 ---
